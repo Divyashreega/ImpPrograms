@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CWDay2Objectoriented\Day2\bin\Debug\Day2.exe.config
+C:\Users\user\source\repos\CWDay2Objectoriented\Day2\bin\Debug\Day2.exe
+C:\Users\user\source\repos\CWDay2Objectoriented\Day2\bin\Debug\Day2.pdb
+C:\Users\user\source\repos\CWDay2Objectoriented\Day2\obj\Debug\Day2.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\CWDay2Objectoriented\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CWDay2Objectoriented\Day2\obj\Debug\Day2.exe
+C:\Users\user\source\repos\CWDay2Objectoriented\Day2\obj\Debug\Day2.pdb
